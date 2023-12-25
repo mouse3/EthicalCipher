@@ -1,2 +1,10 @@
 # EthicalCipher
-SecureSpectra es una herramienta desarrollada en Python diseñada para prácticas de hacking ético, comunicaciones seguras y análisis de señales mediante la transformada de Fourier. Este conjunto de herramientas versátil ha sido creado para amantes de la seguridad informática y entusiastas de la tecnología.
+
+SecureSpectra is a Python tool designed for ethical hacking practices, secure communications, and signal analysis using the Fourier transform. This versatile toolkit has been created for cybersecurity enthusiasts and technology enthusiasts.
+
+# Updates
+Spywares still in maintance, i accept any pull request ;))
+
+
+# Donations
+Monero:
