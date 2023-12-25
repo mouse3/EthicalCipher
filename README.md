@@ -2,6 +2,10 @@
 
 SecureSpectra is a Python tool designed for ethical hacking practices, secure communications, and signal analysis using the Fourier transform. This versatile toolkit has been created for cybersecurity enthusiasts and technology enthusiasts.
 
+# Usage
+You shuld connect a SDR to your PC and the 
+` pip install -r requirements.txt`
+
 # Updates
 Spywares still in maintance, i accept any pull request ;))
 
