@@ -4,8 +4,9 @@ SecureSpectra is a Python tool designed for ethical hacking practices, secure co
 
 # Usage
 You shuld connect a SDR to your PC and the 
-``` Bash
-` pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 # Updates
 Spywares still in maintance, i accept any pull request ;))
