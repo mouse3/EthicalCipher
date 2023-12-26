@@ -387,7 +387,6 @@ def info():
     for ifaceName in interfaces():
         addresses = [i['addr'] for i in ifaddresses(ifaceName).setdefault(AF_INET, [{'addr':'No IP addr'}] )]
         print(' '.join(addresses))
-
 # Me gustaria declararle mi amor pero solo se declarar variables 
 def main():
     while True:
